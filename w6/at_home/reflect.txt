@@ -1,0 +1,2 @@
+1. If I change the number in struct that I define before code in main, I can add more people the required information.
+2. I need to plus 1 char for the terminator because null terminator is one of the elements in the array, so I need to add one character more than the number of meaningful characters.

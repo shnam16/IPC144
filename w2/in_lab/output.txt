@@ -1,0 +1,9 @@
+Script started on Tue May 29 17:23:33 2018
+[shnam@mtrx-node03pd in_lab]$ ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+[shnam@mtrx-node03pd in_lab]$ exit
+exit
+
+Script done on Tue May 29 17:23:39 2018

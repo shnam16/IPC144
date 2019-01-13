@@ -1,0 +1,3 @@
+3. When I use findContactIndex and getTenDigitPhone, my code looks like simple. And I can have increase efficiency, minmize the difficulty of the project failure, and it help me fix the codes.
+
+4. I most learned about string comparing. It makes me revise the string order and I can know about the length and I cand compare between two strings.

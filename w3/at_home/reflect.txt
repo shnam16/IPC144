@@ -1,0 +1,11 @@
+1. Name all the iteration constructs.
+
+I used for, do while, and if constructs in my code.
+
+2. In two or three sentences explain the difference between a "do while" and a "while" loop?
+
+In a "while" construct, if condition is false, do not execute. In a "do while" construct, however, even if condition is false, executes code at least once.
+
+3. In two or three sentences explain what is meant by the term conditional expression?
+
+The conditional expression is an expression which uses if and if else constructions. It gives computer opportunity to select true value.

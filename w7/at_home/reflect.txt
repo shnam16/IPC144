@@ -1,0 +1,3 @@
+1. I use three different struct on the code, it helps coding easily and looks like more simple. When I need to fix the code later, it will be easy to get head, code, and struct.
+2. For me, using a pointer is difficult part because I was wrong a lot and fixed a lot because of the pointer.
+3. It took around 1 days to finish Milestone 4.

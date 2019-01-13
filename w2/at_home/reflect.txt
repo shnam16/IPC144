@@ -1,0 +1,15 @@
+1. What do think is the most important thing you learned in this workshop?
+
+In this workshop, I think using proper type is the most important thing because if we do not select right type, it will show a syntax error.
+
+2. Why must you add .005 to the value derived whend calculating the GST owing?
+
+The reason I must add .005 is to prevent losing value. For example, if we get the 1.1137 value, it becomes 1.11 in this workshop. But, if we add 0.005, it becomes 1.1187. As we added 0.005, we can round up the value.
+
+3. What is the result of a casting operation?
+
+Basically, we can use % operand only for integers. In this workshop, as we use the casting, we can convert from double to int to use % operand.
+
+4. Why do you think you were required to use the modulus operator in this workshop?
+
+I think using the moduduls operator can reduce the complex expressions. It can give us some easier way to write the code.

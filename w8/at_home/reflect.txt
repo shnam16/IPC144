@@ -1,0 +1,2 @@
+1. The term "function" is kind of tool for a programmer. When programmer writes code, there are some of different of conditions and need to write similar codes. For this kind of code, it is not efficient and take lots of time to copy and paste. If programmer use the functions, it helps programmer write code easily.
+2. It is the function how programmers use. They write their function and take it from helper to contacts. 

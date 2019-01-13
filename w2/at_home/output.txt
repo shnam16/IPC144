@@ -1,0 +1,14 @@
+Script started on Tue May 29 21:52:44 2018
+[shnam@mtrx-node03pd at_home]$ ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+[shnam@mtrx-node03pd at_home]$ exit
+exit
+
+Script done on Tue May 29 21:52:56 2018

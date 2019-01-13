@@ -1,0 +1,5 @@
+1. On this assignment, there are maximum 10 days to check a temperature.  We have to use to array with same types of datas.
+
+2. If we use array, the code would be much shorter. We can memorize of the specific value easily. The disadvantage is that if the value which we want to answer is small and do not need array, using array is useless.
+
+3. The at home portion of this workshop is not easy for me. I have to think a lot about making a code. Moreover, when I use array, I have to declare another way. It makes me confused sometimes.

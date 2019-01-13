@@ -1,0 +1,10 @@
+
+In line number 7 of your output:
+The output should be:
+Please enter the contact's middle initial(s): Dino
+But your output is: 
+Please enter the contact's middle initial(s): Flintstone
+                                              ^
+----------------------------------------------|
+Professor's character ASCII code: hex(44), dec(68)
+un-matched character ASCII code: hex(46), dec(70)
